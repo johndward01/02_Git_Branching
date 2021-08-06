@@ -1,0 +1,17 @@
+Step 1. Create folder for project inside of repos folder.
+Step 2. Open VS Code
+Step 3. Open folder inside of VS Code
+Step 4. Add txt file
+Step 5. Make changes to file ( add lines of code)
+Step 6. Save changes (ctrl + s) control + s
+Step 7. Open terminal inside of VS Code ( ctrl + `) control + backtick
+Step 8. Initialize this folder as a git repository => git init
+Step 9. Add all changes to the staging area => git add .
+Step 10. Commit changes => git commit -m "init"
+Step 11. Create Github repository with relevant name
+Step 12. Copy the 3 commands for the "... or push from an existing repository" option:
+    - git remote add origin <URL>
+    - git branch -M main
+    - git push -u origin main
+Step 13. Paste and execute the commands inside of the terminal 
+Step 14. Go back to the Github repository and refresh the page
